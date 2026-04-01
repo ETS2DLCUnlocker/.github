@@ -11,27 +11,27 @@
 ---
 
 **Supported DLCs:**
-Going East!
-Scandinavia
-Vive la France!
-Italia
-Beyond the Baltic Sea
-Road to the Black Sea
-Iberia
-High Power Cargo Pack
-Heavy Cargo Pack
-Special Transport
-Cargo Market Expansion
-Cabin Accessories
-Christmas Market Pack
-MP3 Radio Pack
-Cabin Upgrade Pack
-Wheel Tuning Pack
-Rustic Paint Jobs Pack
-Classic Paint Jobs Pack
-Metallic Paint Jobs Pack
-Industrial Paint Jobs Pack
-Classic Trucks Pack
+- Going East!
+- Scandinavia
+- Vive la France!
+- Italia
+- Beyond the Baltic Sea
+- Road to the Black Sea
+- Iberia
+- High Power Cargo Pack
+- Heavy Cargo Pack
+- Special Transport
+- Cargo Market Expansion
+- Cabin Accessories
+- Christmas Market Pack
+- MP3 Radio Pack
+- Cabin Upgrade Pack
+- Wheel Tuning Pack
+- Rustic Paint Jobs Pack
+- Classic Paint Jobs Pack
+- Metallic Paint Jobs Pack
+- Industrial Paint Jobs Pack
+- Classic Trucks Pack
 ---
 
 ## 🧰 **Dependencies:**
