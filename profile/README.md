@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/ETS2DLCUnlocker/.github/releases) = `*Latest Release as of now*`
 
 ---
 
